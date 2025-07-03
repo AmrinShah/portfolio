@@ -1,6 +1,6 @@
 # 🌐 Portfolio Website
 
-A personal portfolio website designed using HTML and CSS to showcase projects, certifications, and resume.
+A personal portfolio website designed using HTML and CSS to showcase projects, certifications, and resume download option also.
 
 ## 🔧 Tech Stack
 - HTML5
@@ -14,4 +14,4 @@ A personal portfolio website designed using HTML and CSS to showcase projects, c
 This site is built to present myself professionally online with sections for contact, achievements, and projects.
 
 ## 📌 How to Run
-Open `Home.html` in your browser.
+Open `index.html` in your browser.
